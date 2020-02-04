@@ -7,4 +7,8 @@ cask 'traderpro' do
   homepage 'https://www.tradergo.cz/cs/obchodni-aplikace/predstaveni-aplikace'
 
   app 'TraderPRO.app'
+
+  zap trash: [
+            '~/Library/Application Support/TraderPRO'
+  ]
 end
