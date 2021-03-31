@@ -1,14 +1,14 @@
 class Mtn < Formula
   desc "Saves thumbnails (screenshots) of movie or video files to jpeg files"
   homepage "https://gitlab.com/movie_thumbnailer/mtn/wikis/home"
-  url "https://gitlab.com/movie_thumbnailer/mtn/-/archive/3.3.2/mtn-3.3.2.tar.gz"
-  sha256 "471ec0172a1753d684032edb8296ef01af115538619daa417678ac037328daf5"
+  url "https://gitlab.com/movie_thumbnailer/mtn/-/archive/v3.4.1/mtn-v3.4.1.tar.gz"
+  sha256 "34c1105c67b29cc5f11c811bd8e9850eb8e80e421a6ff9bbdd11d37cb863d356"
 
   depends_on "ffmpeg"
   depends_on "gd"
 
   def install
-    system "make", "-Csrc", "install", "PREFIX=#{prefix}"
+    system "make", "GB_F_FONTNAME=Supplemental/Tahoma Bold.ttf", "-Csrc", "install", "PREFIX=#{prefix}"
   end
 
   test do

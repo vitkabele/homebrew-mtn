@@ -10,7 +10,7 @@ More documentation can be found at [Homebrew docs](https://docs.brew.sh)
 ## Formulae
 
 * [Movie Thumbnailer (mtn)](https://gitlab.com/movie_thumbnailer/mtn/wikis/home)
-project. Current version is 3.3.2 ✅, released on May 30, 2019
+project. Current version is 3.4.1 ✅, released on Mar 30, 2021
 
 * [Paperboy.email](https://paperboy.email) Current version is 0.2.0 ✅, released on Jul 31, 2017
 
