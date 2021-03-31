@@ -15,7 +15,3 @@ project. Current version is 3.4.1 ✅, released on Mar 30, 2021
 * [Paperboy.email](https://paperboy.email) Current version is 0.2.0 ✅, released on Jul 31, 2017
 
 * [sss-cli](https://github.com/dsprenkels/sss-cli) Current version is 0.1.0 ✅, released on Sep 3, 2019
-
-## Casks
-
-* [TraderPRO](https://www.tradergo.cz/cs/obchodni-aplikace/predstaveni-aplikace) (Cask) Current version is 11.14.3
