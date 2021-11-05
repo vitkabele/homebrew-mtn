@@ -1,8 +1,8 @@
 class SssCli < Formula
   desc "Shamir secret share command line interface"
   homepage "https://github.com/dsprenkels/sss-cli"
-  url "https://github.com/dsprenkels/sss-cli/archive/v0.1.0.tar.gz"
-  sha256 "25295aac4fb4e910ef69578cf1b559cc9f9ed29b75042d3f71621cbb5fca2bb6"
+  url "https://github.com/dsprenkels/sss-cli/archive/v0.1.1.tar.gz"
+  sha256 "dd8232b11d968df6f1e21b2492796221a0fc13ee78d99bc2e725faf11159798f"
 
   depends_on "rust"
 
