@@ -10,6 +10,6 @@ More documentation can be found at [Homebrew docs](https://docs.brew.sh)
 ## Formulae
 
 * [Movie Thumbnailer (mtn)](https://gitlab.com/movie_thumbnailer/mtn/wikis/home)
-project. Current version is 3.4.1 ✅, released on Mar 30, 2021
+project. Current version is 3.4.2 ✅, released on February 12, 2022
 
 * [sss-cli](https://github.com/dsprenkels/sss-cli) Current version is 0.1.1 ✅, released on April 13., 2021
