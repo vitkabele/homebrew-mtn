@@ -16,7 +16,7 @@ class Mtn < Formula
 
   test do
     system "curl", "--output", "sample.avi", "-L", "https://bitbucket.org/wahibre/mtn/downloads/sample.avi"
-    system "echo '918243383bc9a3a8ff37da451f4b6b17f9636769  sample_s.jpg' > checksum"
+    system "echo 'f55f1e196a783084bf9b2d2ba600148fe6ae65c8  sample_s.jpg' > checksum"
     system "#{bin}/mtn", "sample.avi"
     system "shasum", "--check", "checksum"
   end
